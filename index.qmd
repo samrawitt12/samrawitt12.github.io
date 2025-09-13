@@ -1,0 +1,9 @@
+---
+title: "Samrawit Mezgebo Tsegay"
+---
+
+# Welcome
+
+Hi, I am Samrawit (MDS student at UBC).  
+This site will host my projects and notes for data science.  
+You can find my work on GitHub: <https://github.com/samrawitt12>.
